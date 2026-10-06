@@ -12,3 +12,5 @@
 - My favourite position? CEO. Second favourite... ask me after midnight.
 - दो चीज़ें कभी पूरी नहीं होतीं — मेरी नींद और उसकी 'बस एक बार और'।
 - Netflix and chill? At my age it's Netflix and asleep in 10 minutes.
+- Usne pucha 'kitna lamba chalega?'... Diwali ki safai hai bhai, poori raat lagegi.
+- She asked 'how long can you last?'... Babe, I've been single for 3 years. Forever.
