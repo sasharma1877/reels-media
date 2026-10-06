@@ -87,7 +87,7 @@ def layout(text, fnt, maxw, lh, align="center", x0=W // 2):
     space = fnt.getlength(" ")
     lines, cur, curw = [], [], 0
     for w in words:
-        ww = fnt.getlength(w)
+        ww = text_len(w, fnt)
         if cur and curw + space + ww > maxw:
             lines.append((cur, curw))
             cur, curw = [], 0
@@ -149,6 +149,55 @@ def blob(color, d=900):
 def soft_glow(layer, radius=14):
     small = layer.resize((W // 2, H // 2))
     return small.filter(ImageFilter.GaussianBlur(radius / 2)).resize((W, H))
+
+
+# ---------- emoji-aware text ----------
+import functools
+EMOJI_RE = re.compile("(?:[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\u2300-\u23FF\u2190-\u21FF]\uFE0F?(?:\u200D[\U0001F000-\U0001FAFF\u2600-\u27BF]\uFE0F?)*)")
+
+
+def segments(text):
+    out, i = [], 0
+    for m in EMOJI_RE.finditer(text):
+        if m.start() > i:
+            out.append((False, text[i:m.start()]))
+        out.append((True, m.group()))
+        i = m.end()
+    if i < len(text):
+        out.append((False, text[i:]))
+    return out
+
+
+@functools.lru_cache(maxsize=256)
+def _emoji_cached(ch, size):
+    return emoji_img(ch, size)
+
+
+def text_len(word, fnt):
+    if not EMOJI_RE.search(word):
+        return fnt.getlength(word)
+    return sum((fnt.size * 1.05) if e else fnt.getlength(t) for e, t in segments(word))
+
+
+def draw_rich(img, d, xy, word, fnt, fill, **kw):
+    """Draw text at top-left xy; emoji drawn as colour images. fill may carry alpha."""
+    if not EMOJI_RE.search(word):
+        d.text(xy, word, font=fnt, fill=fill, **kw)
+        return
+    x, y = xy
+    alpha = fill[3] if len(fill) == 4 else 255
+    for e, t in segments(word):
+        if e:
+            sz = int(fnt.size * 0.95)
+            em = _emoji_cached(t, sz)
+            if alpha < 255:
+                em = em.copy()
+                em.putalpha(em.getchannel("A").point(lambda v: int(v * alpha / 255)))
+            img.alpha_composite(em, (int(x + fnt.size * 0.05), int(y + fnt.size * 0.18)))
+            x += fnt.size * 1.05
+        else:
+            d.text((x, y), t, font=fnt, fill=fill, **kw)
+            x += fnt.getlength(t)
 
 
 class Encoder:

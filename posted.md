@@ -19,3 +19,6 @@
 - How is your scooty working? / Fine, why? / Aaj raat ko dogi? / Haan dungi, but scooty ke liye kyun puch rahe ho?
 - Ab use kaise samjhaun main... Tharki nahi hoon, bas use dekhte hi fisal jaata hoon.
 - Plz mujhe haath mat lagana. / Kyun?? / Mummy ne bola tha shaadi ke baad ye sab chhod dena.
+- I can make you "hahaha" in public 😂 / and "ahah ah" in private 🫦
+- S*x without c*ndom is just like an iPhone without cover 📱 / Feels good, but risky 😬
+- Are you a sharpener? ✏️ / Why? 🤨 / Cause I want to put my pencil in your h🌚le 😏

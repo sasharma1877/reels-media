@@ -12,7 +12,7 @@ import math, random, sys
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 import reel_styles as rs
 from reel_styles import (W, H, FPS, HANDLE, font, is_hindi, layout, ease_out, ease_back, clamp,
-                         split_quote, emoji_img, Encoder, chat_messages)
+                         split_quote, emoji_img, Encoder, chat_messages, draw_rich, text_len, EMOJI_RE)
 
 DUR = 8.0
 
@@ -100,7 +100,7 @@ def render_glass(text, out):
             d.rounded_rectangle((0, 0, bw - 1, bh - 1), radius=42, fill=(255, 70, 140, 215), outline=(255, 160, 200, 160), width=2)
         pad = int((bh - (max(yr for (_, _, yr, _, _) in words) + fb.size * 1.25)) / 2)
         for (w, wx, yr, ww, li) in words:
-            d.text((38 + wx, pad + yr), w, font=fb, fill=(255, 255, 255))
+            draw_rich(im, d, (38 + wx, pad + yr), w, fb, (255, 255, 255, 255))
         return im
 
     bimgs = [bubble_img(i) for i in range(len(lay))]
@@ -196,10 +196,15 @@ def render_yellow(text, out):
             k = ease_back(p, 2.2)
             sc = 0.6 + 0.4 * k
             fz = f.font_variant(size=max(8, int(f.size * sc))) if sc < 0.999 else f
-            ww = f.getlength(w)
+            ww = text_len(w, f)
             cx = x + ww / 2
-            d.text((cx, y + f.size * 0.6), w, font=fz, fill=col + (int(255 * clamp(p * 3)),), anchor="mm",
-                   stroke_width=max(1, int(7 * sc)), stroke_fill=(0, 0, 0, int(255 * clamp(p * 3))))
+            if EMOJI_RE.search(w):
+                wz = text_len(w, fz)
+                draw_rich(ov, d, (cx - wz / 2, y + f.size * 0.6 - fz.size * 0.62), w, fz, col + (int(255 * clamp(p * 3)),),
+                          stroke_width=max(1, int(7 * sc)), stroke_fill=(0, 0, 0, int(255 * clamp(p * 3))))
+            else:
+                d.text((cx, y + f.size * 0.6), w, font=fz, fill=col + (int(255 * clamp(p * 3)),), anchor="mm",
+                       stroke_width=max(1, int(7 * sc)), stroke_fill=(0, 0, 0, int(255 * clamp(p * 3))))
         c = (tt - max(t_end + 0.8, 5.6)) / 0.5
         if c > 0:
             d.text((W / 2, H - 280), f"follow {HANDLE} for more", font=small, fill=(255, 255, 255, int(220 * clamp(c))), anchor="mm",
@@ -240,8 +245,8 @@ def render_notes(text, out):
             if shown <= 0:
                 break
             part = w[: int(shown)]
-            d.text((x, y0 + yr), part, font=f, fill=col)
-            cur = (x + f.getlength(part), y0 + yr)
+            draw_rich(im, d, (x, y0 + yr), part, f, col + (255,))
+            cur = (x + text_len(part, f), y0 + yr)
             shown -= len(w) + 1
         return cur
 
@@ -314,11 +319,11 @@ def render_tweet(text, out):
             y = 220
             a_s = clamp((t - t_s) / 0.4)
             for (w, x, yr, ww, li) in s_lines[0]:
-                d.text((50 + x, y + yr), w, font=fb, fill=(235, 235, 240, int(255 * a_s)))
+                draw_rich(card, d, (50 + x, y + yr), w, fb, (235, 235, 240, int(255 * a_s)))
             y += s_lines[1] + 40
             a_p = clamp((t - t_p) / 0.35)
             for (w, x, yr, ww, li) in p_lines[0]:
-                d.text((50 + x, y + yr + 20 * (1 - a_p)), w, font=fb_p, fill=(255, 255, 255, int(255 * a_p)))
+                draw_rich(card, d, (50 + x, y + yr + 20 * (1 - a_p)), w, fb_p, (255, 255, 255, int(255 * a_p)))
             y += p_lines[1] + 50
             d.text((50, y), "2:14 AM · Oct 6, 2026", font=meta_f, fill=(140, 145, 160))
             d.line((50, y + 70, cw - 50, y + 70), fill=(255, 255, 255, 30), width=2)
