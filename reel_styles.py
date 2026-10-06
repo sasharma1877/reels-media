@@ -346,66 +346,98 @@ def render_neon(quote, out):
 
 
 # ---------- style 3: 2 AM CHAT ----------
+def chat_messages(quote):
+    """Multi-line text (one message per line, optional 'He:'/'She:' prefixes) or a single
+    'setup... punchline' quote. Returns list of (side, text), alternating in/out."""
+    lines = [l.strip() for l in quote.replace(" | ", "\n").split("\n") if l.strip()]
+    if len(lines) < 2:
+        lines = list(split_quote(quote))
+    out = []
+    for i, l in enumerate(lines):
+        l = re.sub(r"^(he|she|him|her|me|main|wo|woh|boy|girl|bf|gf|a|b)\s*:\s*", "", l, flags=re.I)
+        out.append(("in" if i % 2 == 0 else "out", l))
+    return out
+
+
 def render_chat(quote, out):
-    setup, punch = split_quote(quote)
-    hi = is_hindi(quote)
-    fb = font("hi_sans", 56) if hi else font("inter_md", 54)
-    lh = 80 if hi else 72
+    msgs = chat_messages(quote)
     maxw = 700
-    bubbles = [("in", setup, 0.5), ("out", punch, 0.0)]
-    # layout bubbles
-    lay = []
-    for side, txt, _ in bubbles:
-        words, bh, nl = layout(txt, fb, maxw, lh, align="left", x0=0)
-        wmax = max((x + ww for (w, x, yr, ww, li) in words), default=0)
-        lay.append((side, words, wmax + 76, bh + 56))
-    y_in = 620
-    y_out = y_in + lay[0][3] + 110
-    t_type1, t_msg1 = 0.4, 1.5
-    t_type2 = t_msg1 + 0.9
-    t_msg2 = t_type2 + 1.4
-    t_react = t_msg2 + 0.9
+    base_size = 54
+    # fit all bubbles between y=600 and ~1480
+    for scale in [1.0, 0.9, 0.82, 0.75, 0.68]:
+        lay = []
+        for side, txt in msgs:
+            hi = is_hindi(txt)
+            fb = font("hi_sans", int(56 * scale)) if hi else font("inter_md", int(base_size * scale))
+            lh = int((80 if hi else 72) * scale)
+            words, bh, nl = layout(txt, fb, maxw, lh, align="left", x0=0)
+            wmax = max((x + ww for (w, x, yr, ww, li) in words), default=0)
+            lay.append((side, words, wmax + 76, bh + int(56 * scale), fb))
+        gap = 64 if len(msgs) > 2 else 110
+        total = sum(l[3] for l in lay) + gap * (len(lay) - 1)
+        if 600 + total <= 1470:
+            break
+    ys, y = [], 600 if len(msgs) <= 2 else max(560, 1000 - total / 2)
+    for l in lay:
+        ys.append(y)
+        y += l[3] + gap
+    # timings: typing dots, then message; reading pause scales with words
+    times, t = [], 0.4
+    for i, (side, txt) in enumerate(msgs):
+        typ = 1.0 if i == 0 else 0.8
+        times.append((t, t + typ))
+        t = t + typ + max(0.5, min(1.6, 0.13 * len(txt.split())))
+    t_last = times[-1][1]
+    t_react = t_last + 0.8
+    dur = max(DUR, t_react + 2.6)
     base = Image.new("RGBA", (W, H), (11, 12, 16, 255))
     hg = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     bd = ImageDraw.Draw(hg)
-    for y in range(0, 520):
-        a = int(70 * (1 - y / 520) ** 2)
-        bd.line((0, y, W, y), fill=(120, 80, 255, a))
+    for yy in range(0, 520):
+        a = int(70 * (1 - yy / 520) ** 2)
+        bd.line((0, yy, W, yy), fill=(120, 80, 255, a))
     base.alpha_composite(hg)
     hdr_f, sub_f, time_f, tick_f, cta_f = font("inter_sb", 44), font("inter_md", 30), font("inter_md", 28), font("inter_md", 26), font("inter_sb", 36)
+    back_f, badge_f = font("inter_md", 80), font("inter_xb", 30)
     avatar = emoji_img("😈", 70)
     react = emoji_img("😏", 86)
     fire = emoji_img("🔥", 60)
     enc = Encoder(out)
-    grad = Image.linear_gradient("L").rotate(90).resize((maxw + 120, 400))
+    grad = Image.linear_gradient("L").rotate(90).resize((maxw + 120, 600))
     out_fill = Image.merge("RGBA", (
         grad.point(lambda v: int(108 + (168 - 108) * v / 255)),
         grad.point(lambda v: int(92 + (85 - 92) * v / 255)),
         grad.point(lambda v: int(231 + (247 - 231) * v / 255)),
         Image.new("L", grad.size, 255)))
 
-    def bubble(ov, side, words, bw, bh, y, p):
-        k = ease_back(p)
-        if k <= 0:
-            return
-        x = 70 if side == "in" else W - 70 - bw
+    def bubble_layer(side, words, bw, bh, fb):
         layer = Image.new("RGBA", (int(bw), int(bh)), (0, 0, 0, 0))
-        ld = ImageDraw.Draw(layer)
         if side == "in":
-            ld.rounded_rectangle((0, 0, bw - 1, bh - 1), radius=42, fill=(38, 42, 51, 255))
+            ImageDraw.Draw(layer).rounded_rectangle((0, 0, bw - 1, bh - 1), radius=42, fill=(38, 42, 51, 255))
         else:
             mask = Image.new("L", layer.size, 0)
             ImageDraw.Draw(mask).rounded_rectangle((0, 0, bw - 1, bh - 1), radius=42, fill=255)
             layer.paste(out_fill.crop((0, 0, int(bw), int(bh))), (0, 0), mask)
-            ld = ImageDraw.Draw(layer)
+        ld = ImageDraw.Draw(layer)
+        pad_y = int((bh - (max((yr for (_, _, yr, _, _) in words), default=0) + fb.size * 1.25)) / 2)
         for (w, wx, yr, ww, li) in words:
-            ld.text((38 + wx, 26 + yr), w, font=fb, fill=(255, 255, 255))
+            ld.text((38 + wx, pad_y + yr), w, font=fb, fill=(255, 255, 255))
+        return layer
+
+    layers = [bubble_layer(side, words, bw, bh, fb) for (side, words, bw, bh, fb) in lay]
+
+    def bubble(ov, i, p):
+        side, words, bw, bh, fb = lay[i]
+        k = ease_back(p)
+        if k <= 0:
+            return
+        x = 70 if side == "in" else W - 70 - bw
         sc = max(0.05, k)
         lw, lh_ = max(1, int(bw * sc)), max(1, int(bh * sc))
-        layer = layer.resize((lw, lh_))
+        layer = layers[i].resize((lw, lh_))
         layer.putalpha(layer.getchannel("A").point(lambda v: int(v * clamp(p * 3))))
         ox = x if side == "in" else x + bw - lw
-        ov.alpha_composite(layer, (int(ox), int(y + bh - lh_)))
+        ov.alpha_composite(layer, (int(ox), int(ys[i] + bh - lh_)))
 
     def typing(ov, side, y, t0, t1, t):
         if not (t0 <= t < t1):
@@ -417,42 +449,43 @@ def render_chat(quote, out):
             bounce = max(0, math.sin((t - t0) * 9 - i * 0.9))
             d.ellipse((x + 45 + i * 40 - 11, y + 55 - 11 - 14 * bounce, x + 45 + i * 40 + 11, y + 55 + 11 - 14 * bounce), fill=(200, 200, 210))
 
-    for fi in range(int(DUR * FPS)):
+    for fi in range(int(dur * FPS)):
         t = fi / FPS
         im = base.copy()
         ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
         d = ImageDraw.Draw(ov)
         # header
         d.line((0, 330, W, 330), fill=(255, 255, 255, 25), width=2)
-        d.text((70, 250), "‹", font=font("inter_md", 80), fill=(180, 160, 255), anchor="lm")
+        d.text((70, 250), "‹", font=back_f, fill=(180, 160, 255), anchor="lm")
         d.ellipse((130, 200, 230, 300), fill=(60, 40, 110))
         ov.alpha_composite(avatar, (145, 215))
         d.text((255, 228), "Unknown Number", font=hdr_f, fill=(255, 255, 255), anchor="lm")
-        typing_now = (t_type1 <= t < t_msg1)
-        status = "typing..." if typing_now else "online"
-        d.text((255, 280), status, font=sub_f, fill=(140, 220, 160) if typing_now else (150, 150, 165), anchor="lm")
+        typing_now = any(t0 <= t < t1 and msgs[i][0] == "in" for i, (t0, t1) in enumerate(times))
+        d.text((255, 280), "typing..." if typing_now else "online", font=sub_f,
+               fill=(140, 220, 160) if typing_now else (150, 150, 165), anchor="lm")
         d.rounded_rectangle((W - 190, 222, W - 70, 278), radius=28, outline=(255, 70, 140), width=3)
-        d.text((W - 130, 250), "18+", font=font("inter_xb", 30), fill=(255, 70, 140), anchor="mm")
-        # time chip
+        d.text((W - 130, 250), "18+", font=badge_f, fill=(255, 70, 140), anchor="mm")
         d.rounded_rectangle((W / 2 - 110, 430, W / 2 + 110, 490), radius=30, fill=(255, 255, 255, 18))
         d.text((W / 2, 460), "2:14 AM", font=time_f, fill=(170, 170, 185), anchor="mm")
         # messages
-        side, words, bw, bh = lay[0]
-        typing(ov, "in", y_in + bh - 110, t_type1, t_msg1, t)
-        bubble(ov, side, words, bw, bh, y_in, (t - t_msg1) / 0.45)
-        side2, words2, bw2, bh2 = lay[1]
-        typing(ov, "out", y_out + bh2 - 110, t_type2, t_msg2, t)
-        bubble(ov, side2, words2, bw2, bh2, y_out, (t - t_msg2) / 0.45)
-        if t > t_msg2 + 0.3:
-            a = int(255 * clamp((t - t_msg2 - 0.3) / 0.3))
-            d.text((W - 70, y_out + bh2 + 36), "Seen ✓✓", font=tick_f, fill=(150, 150, 165, a), anchor="rm")
+        for i, (t0, t1) in enumerate(times):
+            side, words, bw, bh, fb = lay[i]
+            typing(ov, side, ys[i] + bh - 110 if bh >= 110 else ys[i], t0, t1, t)
+            bubble(ov, i, (t - t1) / 0.45)
+        last = len(lay) - 1
+        side, words, bw, bh, fb = lay[last]
+        if t > t_last + 0.3:
+            a = int(255 * clamp((t - t_last - 0.3) / 0.3))
+            if side == "out":
+                d.text((W - 70, ys[last] + bh + 36), "Seen ✓✓", font=tick_f, fill=(150, 150, 165, a), anchor="rm")
         r = (t - t_react) / 0.4
         if r > 0:
             k = ease_back(r, 3)
             sz = max(1, int(86 * k))
-            ov.alpha_composite(react.resize((sz, sz)), (int(W - 70 - bw2 - sz / 2 + 10), int(y_out + bh2 - sz / 2)))
+            rx = W - 70 - bw - sz / 2 + 10 if side == "out" else 70 + bw - sz / 2 - 10
+            ov.alpha_composite(react.resize((sz, sz)), (int(rx), int(ys[last] + bh - sz / 2)))
         # CTA
-        c = (t - max(t_react + 0.5, 5.6)) / 0.5
+        c = (t - max(t_react + 0.5, dur - 2.4)) / 0.5
         if c > 0:
             a = int(255 * clamp(c))
             yy = H - 300 + 20 * (1 - ease_out(c))

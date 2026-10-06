@@ -14,3 +14,8 @@
 - Netflix and chill? At my age it's Netflix and asleep in 10 minutes.
 - Usne pucha 'kitna lamba chalega?'... Diwali ki safai hai bhai, poori raat lagegi.
 - She asked 'how long can you last?'... Babe, I've been single for 3 years. Forever.
+- Laadle, main tere saath tab bhi khada rahunga... Jab tera khada hona bhi band ho jayega.
+- He: Baby aaj nahi, I'm so tired. / She: Tum bas let jao, main khud uske saath khel lungi.
+- How is your scooty working? / Fine, why? / Aaj raat ko dogi? / Haan dungi, but scooty ke liye kyun puch rahe ho?
+- Ab use kaise samjhaun main... Tharki nahi hoon, bas use dekhte hi fisal jaata hoon.
+- Plz mujhe haath mat lagana. / Kyun?? / Mummy ne bola tha shaadi ke baad ye sab chhod dena.
