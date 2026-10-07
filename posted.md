@@ -22,3 +22,4 @@
 - I can make you "hahaha" in public 😂 / and "ahah ah" in private 🫦
 - S*x without c*ndom is just like an iPhone without cover 📱 / Feels good, but risky 😬
 - Are you a sharpener? ✏️ / Why? 🤨 / Cause I want to put my pencil in your h🌚le 😏
+- Thand aane wali hai, kambal nikaal lo 🥶 / Ya phir mujhe bula lo, main zyada garam hoon 🌚😏
