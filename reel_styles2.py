@@ -422,7 +422,72 @@ def render_vhs(text, out):
     enc.close()
 
 
-STYLES = {"glass": render_glass, "yellow": render_yellow, "notes": render_notes, "tweet": render_tweet, "vhs": render_vhs}
+# ---------------- 6. WHITE BOX (Sahil's pick) ----------------
+MONO = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"
+
+
+def render_whitebox(text, out):
+    """Black screen, full-width white box, black monospace text (like classic meme-page reels).
+    Each line of `text` is revealed one after another; Hindi words use a Devanagari font."""
+    msgs = [l.strip() for l in text.split("\n") if l.strip()]
+    size = 66
+    while True:
+        f_lat = ImageFont.truetype(MONO, size)
+        f_hi = ImageFont.truetype("/usr/share/fonts/truetype/freefont/FreeSans.ttf", int(size * 1.05), layout_engine=ImageFont.Layout.RAQM)
+        lh = int(size * 1.45)
+        space = f_lat.getlength(" ")
+        inner = 1080 - 60 - 2 * 50
+        lines = []  # (msg_index, [(word, font, width)], line_width)
+        for mi, m in enumerate(msgs):
+            cur, cw = [], 0
+            for w in m.split():
+                f = f_hi if is_hindi(w) else f_lat
+                ww = text_len(w, f)
+                if cur and cw + space + ww > inner:
+                    lines.append((mi, cur, cw)); cur, cw = [], 0
+                cw = cw + (space if cur else 0) + ww
+                cur.append((w, f, ww))
+            if cur:
+                lines.append((mi, cur, cw))
+        box_h = len(lines) * lh + 2 * 60
+        if box_h <= 1300 or size <= 40:
+            break
+        size -= 4
+    bx0, bx1 = 30, W - 30
+    by0 = int(H / 2 - box_h / 2)
+    appear = [0.35 + i * 1.3 for i in range(len(msgs))]
+    dur = max(7.0, appear[-1] + 3.6)
+    small = ImageFont.truetype(MONO, 30)
+    enc = Encoder(out)
+    for fi in range(int(dur * FPS)):
+        t = fi / FPS
+        im = Image.new("RGBA", (W, H), (0, 0, 0, 255))
+        ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        d = ImageDraw.Draw(ov)
+        k = ease_out(t / 0.35)
+        if k > 0:
+            hh = box_h * (0.92 + 0.08 * k)
+            d.rectangle((bx0, H / 2 - hh / 2, bx1, H / 2 + hh / 2), fill=(250, 250, 250, int(255 * k)),
+                        outline=(200, 200, 200, int(255 * k)), width=2)
+        for li, (mi, words, lw) in enumerate(lines):
+            p = clamp((t - appear[mi]) / 0.25)
+            if p <= 0:
+                continue
+            x = W / 2 - lw / 2
+            y = by0 + 60 + li * lh + 8 * (1 - p)
+            for (w, f, ww) in words:
+                yy = y + (lh - f.size * 1.2) / 2 - (2 if f is f_hi else 0)
+                draw_rich(ov, d, (x, yy), w, f, (20, 20, 20, int(255 * p)))
+                x += ww + space
+        c = clamp((t - appear[-1] - 1.0) / 0.5)
+        if c > 0:
+            d.text((W / 2, H - 230), HANDLE + "  ·  18+", font=small, fill=(150, 150, 150, int(200 * c)), anchor="mm")
+        im.alpha_composite(ov)
+        enc.write(im)
+    enc.close()
+
+
+STYLES = {"glass": render_glass, "yellow": render_yellow, "notes": render_notes, "tweet": render_tweet, "vhs": render_vhs, "whitebox": render_whitebox}
 
 if __name__ == "__main__":
     STYLES[sys.argv[1]](sys.argv[2].replace("\\n", "\n"), sys.argv[3])
