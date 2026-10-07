@@ -23,3 +23,6 @@
 - S*x without c*ndom is just like an iPhone without cover 📱 / Feels good, but risky 😬
 - Are you a sharpener? ✏️ / Why? 🤨 / Cause I want to put my pencil in your h🌚le 😏
 - Thand aane wali hai, kambal nikaal lo 🥶 / Ya phir mujhe bula lo, main zyada garam hoon 🌚😏
+- Your legs don't deserve to be on the floor, / They deserve to be on my shoulder.
+- I Am Not Spiderman / But I Can Still Shoot White Stuff At You
+- Dildo's are great, Vibrators are fun / but nothing can beat the mighty tongue!!!
