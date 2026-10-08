@@ -26,3 +26,5 @@
 - Your legs don't deserve to be on the floor, / They deserve to be on my shoulder.
 - I Am Not Spiderman / But I Can Still Shoot White Stuff At You
 - Dildo's are great, Vibrators are fun / but nothing can beat the mighty tongue!!!
+- Festive sale mein sab 70% OFF chal raha hai 🛍️ / Toh aaj raat tum bhi kuch OFF kar do 🌚 / Light. Light off karo, tum kya soch rahe the? 😏
+- Usne pucha: Dandiya khelna sikha doge? 💃 / Maine kaha: Haan, bas apni dandiya mat lana 😏 / Meri wali kaafi hai 🌚
