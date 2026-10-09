@@ -28,3 +28,8 @@
 - Dildo's are great, Vibrators are fun / but nothing can beat the mighty tongue!!!
 - Festive sale mein sab 70% OFF chal raha hai 🛍️ / Toh aaj raat tum bhi kuch OFF kar do 🌚 / Light. Light off karo, tum kya soch rahe the? 😏
 - Usne pucha: Dandiya khelna sikha doge? 💃 / Maine kaha: Haan, bas apni dandiya mat lana 😏 / Meri wali kaafi hai 🌚
+- Pehle haath mein lo 🧵 / Phir seedha karo / Phir muh mein lo / Phir thook lagao / Phir andar ghusao 😏 / Kitna mushkil hai na... sui mein dhaaga daalna 🪡😂
+- S*x se pehle ladki ne boyfriend ko bola: / Humare bachche ka naam kya hoga? 👶 / Boyfriend 3 c*ndom pehen ke bola: / Iske baad bhi hua toh "RAJNIKANT" rakhenge!! 😎😂
+- Definition of Arrange Marriage 💍 / "Bika hua maal wapis nahi hoga" 😂 / Definition of Love Marriage ❤️ / "Pehle istemaal karein, phir vishwas karein" 😏
+- Why do girls attend classes regularly? 🤔 / Because missing of period is sign of pregnancy.. 😂🤰
+- Usne pucha: Navratri ke liye naye kapde dilaoge? 🛍️ / Maine kaha: Haan, pehle purane wale utaar ke dikhao 😏 / Size bhi toh check karna padega na 👀🌚
