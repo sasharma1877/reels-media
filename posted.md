@@ -33,3 +33,8 @@
 - Definition of Arrange Marriage 💍 / "Bika hua maal wapis nahi hoga" 😂 / Definition of Love Marriage ❤️ / "Pehle istemaal karein, phir vishwas karein" 😏
 - Why do girls attend classes regularly? 🤔 / Because missing of period is sign of pregnancy.. 😂🤰
 - Usne pucha: Navratri ke liye naye kapde dilaoge? 🛍️ / Maine kaha: Haan, pehle purane wale utaar ke dikhao 😏 / Size bhi toh check karna padega na 👀🌚
+- Girls Hostel Mein Light Chali Gayi 💡 / Kisi Aadmi Ko Bulao! / Apni Mombatti Se Kaam Chalao 🕯️😏
+- Boy: Bhai Sahab Ek C*ndom Dena, Girlfriend Ko Gift Karna Hai 🎁 / Gift Cover Chadha Doon? / Yahi To Cover Hai... Gift To Mere Paas Hai 😏
+- Police: Racket Chalati Hai! / Main To Salesgirl Hoon, C*ndom Ki Marketing / Trial To Dena Hi Padta Hai 😏
+- Aaj Phir Uska Dil Dukha Diya Humne 💔 / Dekar Laalach Use Ice-Cream Ka Andhere Mein... / Apna Chusa Diya Humne 🌚
+- Wife Pregnant: Saheliyan 'Congratulations' 🤰 / Par Koi Husband Ko 'Well Done' Nahi Kehta 😂
