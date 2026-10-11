@@ -38,3 +38,8 @@
 - Police: Racket Chalati Hai! / Main To Salesgirl Hoon, C*ndom Ki Marketing / Trial To Dena Hi Padta Hai 😏
 - Aaj Phir Uska Dil Dukha Diya Humne 💔 / Dekar Laalach Use Ice-Cream Ka Andhere Mein... / Apna Chusa Diya Humne 🌚
 - Wife Pregnant: Saheliyan 'Congratulations' 🤰 / Par Koi Husband Ko 'Well Done' Nahi Kehta 😂
+- Ladki: Tumhara kitne inch ka hai? 📏 / Ladka: Kya?? 😳 / Ladki: Phone yaar, phone! 📱 / Ladka: Oh... 6.7 inch / Ladki: Itna bada?? Haath mein aayega? 🌚
+- Are you a Wi-Fi? 📶 / Kyunki tumhe dekhte hi... / Mera signal full khada ho jaata hai 😏
+- Karwa Chauth pe wo poora din bhookhi rahi 🌙 / Chaand nikla, vrat toota... / Phir raat bhar mujhe khaati rahi 😏 / ...Dimaag. 'Gift kahan hai?' bol bol ke 🎁😂
+- Sardi mein do hi cheezein garam rakhti hain 🥶 / Ek chai ☕ / Aur doosri... jo 'bas 5 minute' bol ke / Poori raat le leti hai 😏 / Rajai. Rajai hi bola maine 🌚
+- Diwali pe sab poochte hain 🪔 / 'Tum kaunsa patakha chalaoge?' / Bhai main toh single hoon... / Apna rocket bhi khud hi chalata hoon 🚀😂
