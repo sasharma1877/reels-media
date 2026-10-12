@@ -43,3 +43,8 @@
 - Karwa Chauth pe wo poora din bhookhi rahi 🌙 / Chaand nikla, vrat toota... / Phir raat bhar mujhe khaati rahi 😏 / ...Dimaag. 'Gift kahan hai?' bol bol ke 🎁😂
 - Sardi mein do hi cheezein garam rakhti hain 🥶 / Ek chai ☕ / Aur doosri... jo 'bas 5 minute' bol ke / Poori raat le leti hai 😏 / Rajai. Rajai hi bola maine 🌚
 - Diwali pe sab poochte hain 🪔 / 'Tum kaunsa patakha chalaoge?' / Bhai main toh single hoon... / Apna rocket bhi khud hi chalata hoon 🚀😂
+- Garba night pe usne pucha 💃 / Tumhe kitne steps aate hain? / Maine kaha: Steps toh do hi aate hain... / Par stamina poori raat ka hai 😏 / Garba ka hi bol raha hoon 🌚
+- Doctor: Raat ko kitni baar uthte ho? 🩺 / Main: Do baar... / Doctor: Bas? / Main: Aur ek baar... uski DP dekh ke 😏
+- Baby tum machhar ho kya? 🦟 / Kyunki tum bhi raat ko hi bed pe aati ho... / Aur subah tak mujhe choosti rehti ho 🌚 / ...Khoon. Khoon hi bola maine 😂
+- Tum petrol ho kya? ⛽ / Kyunki daam bhi high hain... / Aur tumhe dekhte hi / Meri gaadi bhi start ho jaati hai 😏
+- Ladki: Mere ghar koi nahi hai 🏠 / Ladka: Main aa jaun? 😏 / Ladki: Haan, jaldi aao... aur laana mat bhoolna 🌚 / Ladka: C*ndom? / Ladki: Nahi pagal, cylinder! Gas khatam hai 😂🔥
