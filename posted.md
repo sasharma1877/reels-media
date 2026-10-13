@@ -48,3 +48,8 @@
 - Baby tum machhar ho kya? 🦟 / Kyunki tum bhi raat ko hi bed pe aati ho... / Aur subah tak mujhe choosti rehti ho 🌚 / ...Khoon. Khoon hi bola maine 😂
 - Tum petrol ho kya? ⛽ / Kyunki daam bhi high hain... / Aur tumhe dekhte hi / Meri gaadi bhi start ho jaati hai 😏
 - Ladki: Mere ghar koi nahi hai 🏠 / Ladka: Main aa jaun? 😏 / Ladki: Haan, jaldi aao... aur laana mat bhoolna 🌚 / Ladka: C*ndom? / Ladki: Nahi pagal, cylinder! Gas khatam hai 😂🔥
+- Are you my phone charger? 🔌 / Kyunki raat bhar tum / Mere saath lagi rehti ho... / Aur subah main 100% full hota hoon 😏🌚
+- Wife: Karwa Chauth ki shopping karni hai 🛍️ / Husband: Kitna kharcha hoga? / Wife: Bas thoda sa... / Husband: Ye 'bas thoda sa' tum raat ko bhi bolti ho / Aur subah tak chalta hai 😏
+- Garba mein usne 3 ghante ghumaya 💃 / Pasine pasine ho gaya main... / Aur wo bolti hai 'abhi toh raat baaki hai' 😏 / Navratri 9 din ki hai, meri knee 2 din ki 🦵😂
+- Festive sale mein Cash on Delivery liya 📦 / Delivery boy: Sir, Open Box Delivery chahiye? / Maine kaha: Bhai, pehli date pe / Itna sab nahi karte 🌚😂
+- Ladki: Mujhe lamba aur mota pasand hai 😳 / Ladka: Oho 🌚 / Ladki: Aur garam ho toh aur mazaa aata hai / Ladka: Kya baat hai! 😏 / Ladki: Paratha, pagal. Aloo wala 🫓😂
