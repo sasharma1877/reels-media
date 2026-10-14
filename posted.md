@@ -53,3 +53,8 @@
 - Garba mein usne 3 ghante ghumaya 💃 / Pasine pasine ho gaya main... / Aur wo bolti hai 'abhi toh raat baaki hai' 😏 / Navratri 9 din ki hai, meri knee 2 din ki 🦵😂
 - Festive sale mein Cash on Delivery liya 📦 / Delivery boy: Sir, Open Box Delivery chahiye? / Maine kaha: Bhai, pehli date pe / Itna sab nahi karte 🌚😂
 - Ladki: Mujhe lamba aur mota pasand hai 😳 / Ladka: Oho 🌚 / Ladki: Aur garam ho toh aur mazaa aata hai / Ladka: Kya baat hai! 😏 / Ladki: Paratha, pagal. Aloo wala 🫓😂
+- Dussehra pe Ravan ke 10 sir dekh ke 🔥 / GF boli: Kaash tumhare paas bhi 10 hote... / Maine kaha: Sir nahi, haath maango 😏 / ...Bartan dhone mein kaam aayenge 🍽️😂
+- Wo boli: Mujhe slow wale pasand hain 🐢 / Maine kaha: Main toh bahut slow hoon 😏 / Wo boli: Sach mein? 🌚 / Maine kaha: Haan... reply karne mein 3 din lagta hai 📱😂
+- Baby tum Google Maps ho kya? 🗺️ / Kyunki tumhare saath / Main har baar / Sahi jagah pahunch jaata hoon 😏
+- Usne pucha: Sale mein kya order kiya? 📦 / Maine kaha: Bas ek cheez... / Jo 'Extra Large' bhi hai / Aur 'Long Lasting' bhi 😏 / Power bank. 20000 mAh 🔋😂
+- Ladki: Tumhe kya pasand hai, upar ya neeche? 😳 / Ladka: Upar 😏 / Ladki: Theek hai... / Ladka: Kya theek hai? 🌚 / Ladki: Diwali pe ghar chal rahe hain, upar wali berth book kar di 🚆😂
