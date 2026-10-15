@@ -58,3 +58,8 @@
 - Baby tum Google Maps ho kya? 🗺️ / Kyunki tumhare saath / Main har baar / Sahi jagah pahunch jaata hoon 😏
 - Usne pucha: Sale mein kya order kiya? 📦 / Maine kaha: Bas ek cheez... / Jo 'Extra Large' bhi hai / Aur 'Long Lasting' bhi 😏 / Power bank. 20000 mAh 🔋😂
 - Ladki: Tumhe kya pasand hai, upar ya neeche? 😳 / Ladka: Upar 😏 / Ladki: Theek hai... / Ladka: Kya theek hai? 🌚 / Ladki: Diwali pe ghar chal rahe hain, upar wali berth book kar di 🚆😂
+- Wo: Abhi bhi khade ho? 😳 / Main: Haan baby... tumhara hi wait kar raha hoon 🌚 / Wo: Toh gate kholo na... / Garba se aa ke 1 ghante se bahar khadi hoon 🚪😂
+- Tum AC ka remote ho kya? ❄️ / Kyunki tumhe haath mein lete hi / Temperature upar-neeche hone lagta hai 😏
+- Sale mein 'Buy 1 Get 1' dekh ke wo boli 🛍️ / Ek aur loge? 😳 / Maine kaha: Pehle wala toh khatam hone do 😏 / Pizza tha bhai, pizza 🍕😂
+- Navratri mein wo 9 din vrat pe hai 🙏 / Na pyaaz, na lehsun, na non-veg... / Aur mujhe bhi bol diya 'tum bhi door rehna' 😭 / Haan bhai, main bhi toh non-veg hi hoon 🌚
+- Wo boli: Mujhe gehra wala pasand hai 😳 / Maine kaha: Kitna gehra? 🌚 / Wo boli: Itna ki saans ruk jaaye... / Maine kaha: Bas karo, sharam aa rahi hai 🙈 / Wo boli: Pagal! Chaniya choli ka gala 👗😂
