@@ -63,3 +63,8 @@
 - Sale mein 'Buy 1 Get 1' dekh ke wo boli 🛍️ / Ek aur loge? 😳 / Maine kaha: Pehle wala toh khatam hone do 😏 / Pizza tha bhai, pizza 🍕😂
 - Navratri mein wo 9 din vrat pe hai 🙏 / Na pyaaz, na lehsun, na non-veg... / Aur mujhe bhi bol diya 'tum bhi door rehna' 😭 / Haan bhai, main bhi toh non-veg hi hoon 🌚
 - Wo boli: Mujhe gehra wala pasand hai 😳 / Maine kaha: Kitna gehra? 🌚 / Wo boli: Itna ki saans ruk jaaye... / Maine kaha: Bas karo, sharam aa rahi hai 🙈 / Wo boli: Pagal! Chaniya choli ka gala 👗😂
+- Delhi ki hawa itni kharab hai 😷 / Doctor ne bola: Ghar se bahar mat niklo / Toh maine GF ko bola: Tum ghar aa jao 🏠 / Indoor activities hi safe hain 😏🌚
+- Baby tum metro ho kya? 🚇 / Kyunki rush hour ho ya raat ke 11... / Main tumhare andar ghusne ko hamesha taiyaar hoon 😏 / Doors closing se pehle 🌚
+- Mummy: Itni raat ko kisse baat kar raha hai? 📱 / Main: Dost hai mummy / Mummy: Dost ko 'baby' bolte hain? / Main: Haan... / Mummy: Aur dost bolta hai 'aur zor se karo'? 😳 / Main: PUBG mein revive kar raha tha 🎮😂
+- Navratri ke 9 din usne bola 🙏 / 'Abhi kuch nahi, vrat hai' / Maine bhi 9 din sabr kiya... / Dussehra pe sirf Ravan nahi jalega 🔥 / Main bhi jalunga... intezaar mein 😏🌚
+- Ladki: Bahut tight hai, andar nahi jaa raha 😩 / Ladka: Thoda tel laga ke try karo 🌚 / Ladki: Laga liya, ab bhi nahi... / Ladka: Thoda zor se dhakka do 😏 / Ladki: Haan gaya! Thank you 😭 / Garba wali choodi thi bhai 💍😂
