@@ -68,3 +68,8 @@
 - Mummy: Itni raat ko kisse baat kar raha hai? 📱 / Main: Dost hai mummy / Mummy: Dost ko 'baby' bolte hain? / Main: Haan... / Mummy: Aur dost bolta hai 'aur zor se karo'? 😳 / Main: PUBG mein revive kar raha tha 🎮😂
 - Navratri ke 9 din usne bola 🙏 / 'Abhi kuch nahi, vrat hai' / Maine bhi 9 din sabr kiya... / Dussehra pe sirf Ravan nahi jalega 🔥 / Main bhi jalunga... intezaar mein 😏🌚
 - Ladki: Bahut tight hai, andar nahi jaa raha 😩 / Ladka: Thoda tel laga ke try karo 🌚 / Ladki: Laga liya, ab bhi nahi... / Ladka: Thoda zor se dhakka do 😏 / Ladki: Haan gaya! Thank you 😭 / Garba wali choodi thi bhai 💍😂
+- Wo boli: Aaj raat 'hopping' karni hai 😳 / Maine kaha: Itni jaldi? Pehli date hai 🙈 / Wo boli: Pagal, PANDAL hopping! / Kolkata ke 12 pandal... paidal 🚶‍♀️😂
+- Tum Dhanteras ho kya? 🪙 / Kyunki tumhe dekhte hi / Kuch 'bada' lene ka mann karta hai 😏 / ...Bed. King size 🛏️🌚
+- Tum mera Instagram ho kya? 📱 / Kyunki raat ke 2 baje tak / Tumhe hi scroll karta rehta hoon... / Upar se neeche 😏🌚
+- Doctor: Roz 30 minute cardio karo 🏃 / Maine GF ko call kiya 📱 / Wo boli: Aa jao, ghar khaali hai 🌚 / Maine kaha: Treadmill hi theek hai... / Tumhare saath 5 min mein saans phool jaati hai 😮‍💨😂
+- Ladki: Tumhe pehli baar mein hi ho gaya? 😳 / Ladka: Haan, ekdum smoothly 😏 / Ladki: Mujhe toh 3 baar try karna pada 😩 / Ladka: Practice karo baby 🌚 / Ladki: Kab tak? Driving test kal hai 🚗😂
