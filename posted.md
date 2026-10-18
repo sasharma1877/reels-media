@@ -73,3 +73,8 @@
 - Tum mera Instagram ho kya? 📱 / Kyunki raat ke 2 baje tak / Tumhe hi scroll karta rehta hoon... / Upar se neeche 😏🌚
 - Doctor: Roz 30 minute cardio karo 🏃 / Maine GF ko call kiya 📱 / Wo boli: Aa jao, ghar khaali hai 🌚 / Maine kaha: Treadmill hi theek hai... / Tumhare saath 5 min mein saans phool jaati hai 😮‍💨😂
 - Ladki: Tumhe pehli baar mein hi ho gaya? 😳 / Ladka: Haan, ekdum smoothly 😏 / Ladki: Mujhe toh 3 baar try karna pada 😩 / Ladka: Practice karo baby 🌚 / Ladki: Kab tak? Driving test kal hai 🚗😂
+- Diwali ki safai mein wo boli 😳 / Neeche se kas ke pakadna, hilana mat / Main upar chadh rahi hoon... / Seedhi hai bhai, SEEDHI 🪜😂
+- Shaadi season shuru 💍 / Aunty: Beta, tumhara number kab aayega? / Main: Aunty, number toh kai baar diya 😏 / Bas kisi ne save nahi kiya 📱😂
+- Tum sardi ki dhoop ho kya? ☀️ / Kyunki subah subah / Tumhare neeche let ke / Garam hone ka mann karta hai 😏
+- Wo boli: Diwali pe bomb phodoge? 🧨 / Maine kaha: Haan, lambi ladi hai 😏 / Wo boli: Kitni der chalegi? / Maine kaha: 1000 wali hai... / 10 second mein bujhne wali nahi 🌚
+- Wo: Jaldi daalo na, ab sabr nahi hota 😩 / Main: Itni bhi kya jaldi? 🌚 / Main: Pehle garam toh hone do 😏 / Wo: Pagal! Geyser kab ka garam hai... / Bucket mein daalo, thand lag rahi hai 🥶🚿
