@@ -78,3 +78,8 @@
 - Tum sardi ki dhoop ho kya? ☀️ / Kyunki subah subah / Tumhare neeche let ke / Garam hone ka mann karta hai 😏
 - Wo boli: Diwali pe bomb phodoge? 🧨 / Maine kaha: Haan, lambi ladi hai 😏 / Wo boli: Kitni der chalegi? / Maine kaha: 1000 wali hai... / 10 second mein bujhne wali nahi 🌚
 - Wo: Jaldi daalo na, ab sabr nahi hota 😩 / Main: Itni bhi kya jaldi? 🌚 / Main: Pehle garam toh hone do 😏 / Wo: Pagal! Geyser kab ka garam hai... / Bucket mein daalo, thand lag rahi hai 🥶🚿
+- Karwa Chauth aane wala hai 🌙 / Wo boli: Is baar poori raat jaagungi 😏 / Main toh excited ho gaya 🌚 / Phir boli: Mehendi sukhani hai 🖐️😂
+- Tum Diwali bonus ho kya? 💸 / Kyunki saal bhar intezaar karwati ho... / Aur aate hi / Poora khaali kar deti ho 😏🌚
+- Are you a washing machine? 🫧 / Kyunki tumhare saath / Main poori raat / Ghoomta, hilta aur nichudta rehta hoon 😏
+- Ladki: Tumhara kitni der tak chalta hai? 😳 / Ladka: Poori raat, baby 😏 / Ladki: Sach mein? 🌚 / Ladka: Haan, Jio ka hai, 2GB/day / Ladki: Toh hotspot de do na, mera data khatam 📶😂
+- Wo: Kal Ravan dahan pe chaloge? 🔥 / Main: Haan, apna teer bhi laaunga 🏹😏 / Wo: Bada hai? 🌚 / Main: Itna ki Ravan ek baar mein gir jaaye... / Mele se ₹50 ka liya hai, plastic wala 😂
