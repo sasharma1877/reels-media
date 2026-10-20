@@ -83,3 +83,8 @@
 - Are you a washing machine? 🫧 / Kyunki tumhare saath / Main poori raat / Ghoomta, hilta aur nichudta rehta hoon 😏
 - Ladki: Tumhara kitni der tak chalta hai? 😳 / Ladka: Poori raat, baby 😏 / Ladki: Sach mein? 🌚 / Ladka: Haan, Jio ka hai, 2GB/day / Ladki: Toh hotspot de do na, mera data khatam 📶😂
 - Wo: Kal Ravan dahan pe chaloge? 🔥 / Main: Haan, apna teer bhi laaunga 🏹😏 / Wo: Bada hai? 🌚 / Main: Itna ki Ravan ek baar mein gir jaaye... / Mele se ₹50 ka liya hai, plastic wala 😂
+- Sharad Purnima ki raat 🌕 / Wo boli: Poori raat khula chhodna padega... / Subah tak gaadha aur meetha ho jaata hai 😏 / Kheer, pagal. Kheer 🍚😂
+- Tum dentist ho kya? 🦷 / Kyunki tumhare paas aate hi / Muh khulta hai, aankhein band hoti hain... / Aur bill dekh ke cheekh nikalti hai 😭😂
+- Shaadi season mein Aunty ne pucha 💍 / Beta, suhaag raat ki taiyaari ho gayi? / Maine kaha: Haan aunty, poori 😏 / Doodh ka glass bhi, phoolon wala bed bhi 🌹 / Bas ek cheez missing hai... / Ladki 😭😂
+- Dussehra pe sab bole: Teer chalao 🏹 / Maine kaha: Mera teer toh / Kab se taana hua hai 😏 / Bas nishana hi DM seen karke / Reply nahi karta 😭🌚
+- Karwa Chauth pe wo boli 🌙 / Chhalni se tumhe dekhungi / Maine kaha: Chhalni kyun? / Wo boli: Chhoti cheez ho / Toh chhalni se bhi dikh jaati hai 😏 / ...Tumhari salary 💸😂
