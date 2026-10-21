@@ -88,3 +88,8 @@
 - Shaadi season mein Aunty ne pucha 💍 / Beta, suhaag raat ki taiyaari ho gayi? / Maine kaha: Haan aunty, poori 😏 / Doodh ka glass bhi, phoolon wala bed bhi 🌹 / Bas ek cheez missing hai... / Ladki 😭😂
 - Dussehra pe sab bole: Teer chalao 🏹 / Maine kaha: Mera teer toh / Kab se taana hua hai 😏 / Bas nishana hi DM seen karke / Reply nahi karta 😭🌚
 - Karwa Chauth pe wo boli 🌙 / Chhalni se tumhe dekhungi / Maine kaha: Chhalni kyun? / Wo boli: Chhoti cheez ho / Toh chhalni se bhi dikh jaati hai 😏 / ...Tumhari salary 💸😂
+- Ladki: Itna chhota? 😳 / Ladka: Size se kya hota hai, kaam dekho 😏 / Ladki: Bhai Diwali bonus ki baat kar rahi hoon / ₹501 mein kya kaam dekhun? 💸😂
+- Wo boli: Diwali pe diya jalaoge? 🪔 / Maine kaha: Diya bhi jalaunga... / Baati bhi daalunga... / Tel bhi bharunga 😏 / Bas tum maachis ban jao 🔥🌚
+- Tum mera alarm ho kya? ⏰ / Kyunki subah subah / Tumhari wajah se hi / Main uthta hoon 😏🌚
+- Delhi mein AQI 400 paar 😷 / Doctor bole: Gehri saans mat lena / GF boli: Toh aaj raat...? 🌚 / Maine kaha: Aa jao, mask pehen ke 😏 / Hawa kharab hai, irade nahi 😂
+- Wo: Aaj raat light band karke karenge 🌚 / Main: Sach mein? 😏 / Wo: Haan, dheere se daalna, hilana mat... / Main: Pehli baar hai kya? / Wo: Haan! Diwali ki jhaalar ka plug / Kal shock laga tha 🪔⚡😂
