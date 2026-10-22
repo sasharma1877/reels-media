@@ -93,3 +93,8 @@
 - Tum mera alarm ho kya? ⏰ / Kyunki subah subah / Tumhari wajah se hi / Main uthta hoon 😏🌚
 - Delhi mein AQI 400 paar 😷 / Doctor bole: Gehri saans mat lena / GF boli: Toh aaj raat...? 🌚 / Maine kaha: Aa jao, mask pehen ke 😏 / Hawa kharab hai, irade nahi 😂
 - Wo: Aaj raat light band karke karenge 🌚 / Main: Sach mein? 😏 / Wo: Haan, dheere se daalna, hilana mat... / Main: Pehli baar hai kya? / Wo: Haan! Diwali ki jhaalar ka plug / Kal shock laga tha 🪔⚡😂
+- Wo: Karwa Chauth pe din bhar kuch nahi khaungi 🌙 / Main: Aur raat ko? 😏 / Wo: Raat ko sab muh mein lungi... / Main: 🌚🌚 / Wo: Paani, mithai, samose... 14 ghante bhookhi hoon pagal 😂
+- Tum rajai ho kya? 🛌 / Kyunki sardi mein / Tumhare andar ghus ke / Bahar nikalne ka mann hi nahi karta 😏🌚
+- Diwali safai mein mummy boli 🧹 / Kone ka jaala hatao! / Maine kaha: Mummy, mera jaala toh / Saalon se kisi ne hataya hi nahi 😭🌚 / Single life, deep cleaning pending 😂
+- Shaadi season mein sab pooch rahe 💍 / 'Tumhari kab hogi?' / Maine kaha: Hoti toh roz hai... / Bas akele 😏 / ...Party. Ghar pe akele party 🍾😂
+- Ladki: Peeche se aana 😳 / Ladka: Pehli baar mein hi? 🌚 / Ladki: Haan, aage papa baithe hain / Peeche wala gate khula hai 🚪😂
