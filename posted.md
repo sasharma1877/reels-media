@@ -98,3 +98,8 @@
 - Diwali safai mein mummy boli 🧹 / Kone ka jaala hatao! / Maine kaha: Mummy, mera jaala toh / Saalon se kisi ne hataya hi nahi 😭🌚 / Single life, deep cleaning pending 😂
 - Shaadi season mein sab pooch rahe 💍 / 'Tumhari kab hogi?' / Maine kaha: Hoti toh roz hai... / Bas akele 😏 / ...Party. Ghar pe akele party 🍾😂
 - Ladki: Peeche se aana 😳 / Ladka: Pehli baar mein hi? 🌚 / Ladki: Haan, aage papa baithe hain / Peeche wala gate khula hai 🚪😂
+- Ladki: Mujhe andar le chalo na 😩 / Ladka: Yahin? Sabke saamne? 😳 / Ladki: Haan, bahar bahut thand hai 🥶 / Ladka: Thoda sabr karo baby 🌚 / Ladki: Bouncer bol raha hai couple entry only / Diwali party hai bhai 🎉😂
+- Tum Ola ho kya? 🚕 / Kyunki raat ke 2 baje / Sirf tum hi aati ho... / Aur surge bhi bahut lagati ho 😏💸
+- Dhanteras pe wo boli 🪙 / 'Kuch bhaari aur chamakdaar chahiye' 😏 / Maine kaha: Bhaari toh main hoon 🌚 / Wo boli: Gold chahiye, belly nahi 😂
+- Sardi mein usne pucha 🥶 / 'Tumhare paas kuch garam hai?' / Maine kaha: Kab se garam pada hai 😏 / Bas haath laga ke dekho... / Hot water bag hai, pagal 🔥😂
+- Ladki: Raat ko kitni baar karte ho? 😳 / Ladka: 3-4 baar toh aaram se 😏 / Ladki: Itni baar?? 🌚 / Ladka: Kabhi kabhi subah bhi... / Ladki: Pagal, mummy pooch rahi hai / Kitni baar fridge khol ke khaate ho 🍫😂
