@@ -103,3 +103,8 @@
 - Dhanteras pe wo boli 🪙 / 'Kuch bhaari aur chamakdaar chahiye' 😏 / Maine kaha: Bhaari toh main hoon 🌚 / Wo boli: Gold chahiye, belly nahi 😂
 - Sardi mein usne pucha 🥶 / 'Tumhare paas kuch garam hai?' / Maine kaha: Kab se garam pada hai 😏 / Bas haath laga ke dekho... / Hot water bag hai, pagal 🔥😂
 - Ladki: Raat ko kitni baar karte ho? 😳 / Ladka: 3-4 baar toh aaram se 😏 / Ladki: Itni baar?? 🌚 / Ladka: Kabhi kabhi subah bhi... / Ladki: Pagal, mummy pooch rahi hai / Kitni baar fridge khol ke khaate ho 🍫😂
+- Boss ne Diwali pe ek box diya 🎁 / Bola: Ghar jaake kholna, akele mein 😏 / Maine socha aaj toh lottery lag gayi 🌚 / Khola toh... Soan Papdi 😭😂
+- Tum Instamart ho kya? 🛒 / Kyunki raat ke 1 baje bhi / 10 minute mein aa jaati ho... / Aur c*ndom bhi saath le aati ho 😏🌚
+- Karwa Chauth pe wo subah 4 baje uthi 🌙 / Boli: Vrat se pehle kuch meetha chahiye 😏 / Maine kaha: Main haazir hoon 🌚 / Wo boli: Sargi ki pheni laao, pagal 😂
+- Sangeet mein aunty boli 💃 / Beta, aaj tum bhi kuch utha ke dikhao 😏 / Maine kaha: Aunty, sabke saamne? 🙈 / Aunty: Haan, dulhe ka joota! Chhupana hai 👞😂
+- Diwali ki raat wo boli 🪔 / Aaj poori raat khelenge 😏 / Kapde utaaroge? 🌚 / Maine kaha: Haan baby! / Wo boli: Teen Patti mein haaroge tab 🃏😂
