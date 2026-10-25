@@ -108,3 +108,8 @@
 - Karwa Chauth pe wo subah 4 baje uthi 🌙 / Boli: Vrat se pehle kuch meetha chahiye 😏 / Maine kaha: Main haazir hoon 🌚 / Wo boli: Sargi ki pheni laao, pagal 😂
 - Sangeet mein aunty boli 💃 / Beta, aaj tum bhi kuch utha ke dikhao 😏 / Maine kaha: Aunty, sabke saamne? 🙈 / Aunty: Haan, dulhe ka joota! Chhupana hai 👞😂
 - Diwali ki raat wo boli 🪔 / Aaj poori raat khelenge 😏 / Kapde utaaroge? 🌚 / Maine kaha: Haan baby! / Wo boli: Teen Patti mein haaroge tab 🃏😂
+- Office ki Diwali party mein HR boli 🎉 / 'Aaj sab khul ke enjoy karo' 😏 / Maine tie kholi, button bhi khol diye 🌚 / Monday ko mail aaya: Dress code violation 📧😂
+- Tum phuljhadi ho kya? ✨ / Kyunki haath mein lete hi / Chingaariyan udne lagti hain 😏🌚
+- Karwa Chauth pe wo boli 🌙 / Chaand nikalne tak kuch nahi lungi... / Maine kaha: Aur chaand nikalne ke baad? 😏 / Wo boli: Tumhara credit card 💳😂
+- Tum Delhi ki hawa ho kya? 😷 / Kyunki tumhare paas aate hi / Saans tez ho jaati hai... / Aur aankhein jalne lagti hain 😭😂
+- Ladki: Itna lamba kab se ho gaya? 😳 / Ladka: Tumhare intezaar mein 😏 / Ladki: Ab kaat do, chubhta hai 🌚 / Ladka: Kya?? 😨 / Ladki: Dadhi, pagal! No Shave November abhi aaya bhi nahi 🧔😂
