@@ -113,3 +113,8 @@
 - Karwa Chauth pe wo boli 🌙 / Chaand nikalne tak kuch nahi lungi... / Maine kaha: Aur chaand nikalne ke baad? 😏 / Wo boli: Tumhara credit card 💳😂
 - Tum Delhi ki hawa ho kya? 😷 / Kyunki tumhare paas aate hi / Saans tez ho jaati hai... / Aur aankhein jalne lagti hain 😭😂
 - Ladki: Itna lamba kab se ho gaya? 😳 / Ladka: Tumhare intezaar mein 😏 / Ladki: Ab kaat do, chubhta hai 🌚 / Ladka: Kya?? 😨 / Ladki: Dadhi, pagal! No Shave November abhi aaya bhi nahi 🧔😂
+- Bigg Boss dekh ke wo boli 📺 / Aaj hum bhi ghar mein 'task' karenge 😏 / Maine kaha: Lights off, camera off? 🌚 / Wo boli: Nahi, bartan dhone ka task / Aur captain tum ho 🍽️😂
+- Tum November ki pehli thand ho kya? 🥶 / Kyunki tumhe mehsoos karte hi / Rongte khade ho jaate hain 😏🌚
+- Dhanteras pe wo boli 🪔 / Kuch aisa lo jo lamba chale 😏 / Maine kaha: Main hoon na 🌚 / Wo boli: Tum 2 minute mein thak jaate ho / Pressure cooker lo, 10 saal warranty 🍲😂
+- Wo: Jaldi aao, ghar khaali hai 😩 / Main: Bas 5 minute, khada hi hoon 😏 / Wo: Itni jaldi? 🌚 / Main: Haan... bus stop pe / Delhi ka traffic hai, 2 ghante lagenge 🚌😂
+- Ladki: Aaj raat mujhe poora chahiye 😳 / Ladka: Poora? 🌚 / Ladki: Haan, aadhe se kaam nahi chalega... / Ladka: Itni bhook? 😏 / Ladki: Chaand, pagal! Badal mein aadha chhupa hai / Karwa Chauth ka vrat kaise todun? 🌕😂
