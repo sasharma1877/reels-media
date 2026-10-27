@@ -118,3 +118,8 @@
 - Dhanteras pe wo boli 🪔 / Kuch aisa lo jo lamba chale 😏 / Maine kaha: Main hoon na 🌚 / Wo boli: Tum 2 minute mein thak jaate ho / Pressure cooker lo, 10 saal warranty 🍲😂
 - Wo: Jaldi aao, ghar khaali hai 😩 / Main: Bas 5 minute, khada hi hoon 😏 / Wo: Itni jaldi? 🌚 / Main: Haan... bus stop pe / Delhi ka traffic hai, 2 ghante lagenge 🚌😂
 - Ladki: Aaj raat mujhe poora chahiye 😳 / Ladka: Poora? 🌚 / Ladki: Haan, aadhe se kaam nahi chalega... / Ladka: Itni bhook? 😏 / Ladki: Chaand, pagal! Badal mein aadha chhupa hai / Karwa Chauth ka vrat kaise todun? 🌕😂
+- Delhi mein itna smog hai 😷 / GF boli: Aaj toh kuch dikh hi nahi raha... / Maine kaha: Perfect 😏 / Lights band karne ki zaroorat hi nahi 🌚
+- Tum Sensex ho kya? 📈 / Kyunki tumhe dekhte hi / Kuch upar chadh jaata hai... / Aur tumhare jaate hi crash 📉😭
+- Ladki: Raat ko aa jaana, sab so jaayenge 😳 / Ladka: Pakka? Kuch le aaun? 🌚 / Ladki: Haan, ek packet le aana / Ladka: Kaunsa flavour? 😏 / Ladki: Maggi, pagal! Hostel mein bhookh lagi hai 🍜😂
+- Karwa Chauth pe wo boli 🌙 / Aaj tum bhi vrat rakhoge? / Maine kaha: Main toh saal bhar rakhta hoon 😭 / Bas tum hi kabhi todne nahi aati 🌚
+- Sardi aa gayi 🥶 / Wo boli: Raat ko kaise sote ho? / Maine kaha: Kambal ke andar, sab utaar ke 😏 / Wo boli: Thand nahi lagti? / Maine kaha: Lagti hai... / Isliye toh tumhe bula raha hoon 🌚
