@@ -123,3 +123,8 @@
 - Ladki: Raat ko aa jaana, sab so jaayenge 😳 / Ladka: Pakka? Kuch le aaun? 🌚 / Ladki: Haan, ek packet le aana / Ladka: Kaunsa flavour? 😏 / Ladki: Maggi, pagal! Hostel mein bhookh lagi hai 🍜😂
 - Karwa Chauth pe wo boli 🌙 / Aaj tum bhi vrat rakhoge? / Maine kaha: Main toh saal bhar rakhta hoon 😭 / Bas tum hi kabhi todne nahi aati 🌚
 - Sardi aa gayi 🥶 / Wo boli: Raat ko kaise sote ho? / Maine kaha: Kambal ke andar, sab utaar ke 😏 / Wo boli: Thand nahi lagti? / Maine kaha: Lagti hai... / Isliye toh tumhe bula raha hoon 🌚
+- Halloween party mein wo boli 🎃 / Aaj raat sab kuch utaar ke aana 😏 / Maine kaha: Sab kuch?? 🌚 / Wo boli: Haan, wo 'nice guy' wala mask 👻 / Asli shaitaan dekhna hai 😈
+- Tum WiFi ho kya? 📶 / Kyunki tumhare paas aate hi / Mera signal full ho jaata hai... / Aur connection tootne ka naam nahi leta 😏🌚
+- Tum Karwa Chauth ka chaand ho kya? 🌙 / Kyunki poora din intezaar karwati ho... / Aur jab aati ho / Tab hi mera vrat tootta hai 😏🌚
+- Wo boli: Diwali pe kya gift doge? 🎁 / Maine kaha: Raat bhar ka entertainment 😏 / Wo boli: Ooh, kya? 🌚 / Maine kaha: Netflix ka password 📺😂
+- Ladki: Dheere karo, awaaz bahar jaayegi 🤫 / Ladka: Kuch nahi hoga baby 😏 / Ladki: Papa jaag jaayenge! 😳 / Ladka: Bas thoda aur... 🌚 / Ladki: Pagal, patakhe Diwali pe phodna / Raat ke 2 baj rahe hain 🧨😂
