@@ -128,3 +128,8 @@
 - Tum Karwa Chauth ka chaand ho kya? 🌙 / Kyunki poora din intezaar karwati ho... / Aur jab aati ho / Tab hi mera vrat tootta hai 😏🌚
 - Wo boli: Diwali pe kya gift doge? 🎁 / Maine kaha: Raat bhar ka entertainment 😏 / Wo boli: Ooh, kya? 🌚 / Maine kaha: Netflix ka password 📺😂
 - Ladki: Dheere karo, awaaz bahar jaayegi 🤫 / Ladka: Kuch nahi hoga baby 😏 / Ladki: Papa jaag jaayenge! 😳 / Ladka: Bas thoda aur... 🌚 / Ladki: Pagal, patakhe Diwali pe phodna / Raat ke 2 baj rahe hain 🧨😂
+- No Shave November se pehle wo boli 🧔 / Is baar poora mahina mat kaatna 😏 / Maine kaha: Tumhare liye kuch bhi 🌚 / Wo boli: Aur raat ko mera bhi mat kaatna... / Phone. Raat ko mera phone mat kaatna 📱😂
+- Tum geyser ho kya? 🚿 / Kyunki tumhe on karne mein / 15 minute lagte hain... / Par phir sab kuch garam garam milta hai 😏🌚
+- Halloween pe wo boli 🎃 / Aaj raat mujhe darao 👻 / Maine kaha: Light band karo 🌚 / Wo boli: Ooh, phir? 😏 / Phir maine apna bank balance dikha diya 💸😱
+- Karwa Chauth pe usne chhalni se dekha 🌙 / Pehle chaand ko... phir mujhe... / Phir boli: Chaand mein bhi daag hai / Par wo kam se kam raat bhar jaagta hai 😏 / Tum toh light band hote hi so jaate ho 😴😂
+- Ladki: Pehle haath mein pakdo 🤝 / Phir dheere se kheencho... / Ladka: Phir? 😏 / Ladki: Phir zor se jhatka do 🌚 / Ladka: Aur? 🥵 / Ladki: Pagal, ladi ka dhaaga ulajh gaya hai / Diwali mein 10 din bache hain 🧨😂
