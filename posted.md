@@ -133,3 +133,8 @@
 - Halloween pe wo boli 🎃 / Aaj raat mujhe darao 👻 / Maine kaha: Light band karo 🌚 / Wo boli: Ooh, phir? 😏 / Phir maine apna bank balance dikha diya 💸😱
 - Karwa Chauth pe usne chhalni se dekha 🌙 / Pehle chaand ko... phir mujhe... / Phir boli: Chaand mein bhi daag hai / Par wo kam se kam raat bhar jaagta hai 😏 / Tum toh light band hote hi so jaate ho 😴😂
 - Ladki: Pehle haath mein pakdo 🤝 / Phir dheere se kheencho... / Ladka: Phir? 😏 / Ladki: Phir zor se jhatka do 🌚 / Ladka: Aur? 🥵 / Ladki: Pagal, ladi ka dhaaga ulajh gaya hai / Diwali mein 10 din bache hain 🧨😂
+- Halloween pe wo boli 🎃 / Aaj raat kuch scary pehen ke aaungi 😏 / Maine kaha: Lingerie? 🌚 / Wo boli: Nahi... / Meri shaadi ka joda, rishta pakka ho gaya 💍😱
+- Sardi mein wo boli 🥶 / Upar aa jao na... / Maine kaha: Itni jaldi? 😏 / Wo boli: Haan, chhat pe dhoop aa gayi hai ☀️😂
+- Tum Zomato ho kya? 🛵 / Kyunki order karta hoon garam garam... / Aati ho thandi 😒 / Aur phir bhi tip maangti ho 💸😂
+- Tum November ki dadhi ho kya? 🧔 / Kyunki din ba din / Tumhari chubhan badhti ja rahi hai... / Aur kaatne ka mann bhi nahi karta 😏🌚
+- Ladki: Tumhara mota hai ya patla? 😳 / Ladka: Ye kaisa sawaal hai? 🌚 / Ladki: Bata do na, raat ko kaam aayega 😏 / Ladka: Mota hai... 😏 / Ladki: Perfect! Apna kambal de do, mera patla hai 🥶😂
